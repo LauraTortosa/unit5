@@ -5,6 +5,10 @@ public class Polygon {
         this.p = p;
     }
 
+    public Polygon() {
+
+    }
+
 
 
 
