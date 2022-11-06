@@ -9,6 +9,20 @@ public class Polygon {
 
     }
 
+    /*public String toString() {
+        return
+    }*/
+
+    /*public void getLength() {
+
+    }
+    */
+
+    /*public void setOffset() {
+
+    }*/
+
+
 
 
 
