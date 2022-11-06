@@ -11,5 +11,15 @@ public class Segment {
         this.endPoint = endPoint;
     }
 
+    /*
+    public double module(Point startPoint, Point endPoint) {
+
+    }*/
+
+    public String toString() {
+        return startPoint.toString() + " - " + endPoint.toString();
+    }
+
+
 
 }
