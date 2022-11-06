@@ -20,6 +20,14 @@ public class Segment {
         return startPoint.toString() + " - " + endPoint.toString();
     }
 
+    public void setOffset(int offX, int offY) {
+        startPoint.setOffset(offX, offY);
+        endPoint.setOffset(offX, offY);
+    }
+
+
+
+
 
 
 }
