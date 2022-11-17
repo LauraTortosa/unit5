@@ -13,14 +13,14 @@ public class Polygon {
         return
     }*/
 
-    /*public void getLength() {
+    public void getLength() {
 
     }
-    */
 
-    /*public void setOffset() {
 
-    }*/
+    public void setOffset() {
+
+    }
 
 
 
