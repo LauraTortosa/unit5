@@ -5,6 +5,8 @@ public class Main4 {
         rect1.moveTo(4,7);
         System.out.println(rect1);
 
+        Rectangle rect2 = new Rectangle(new Point(1,1), 8, 6);
+        System.out.println(rect2);
 
     }
 }

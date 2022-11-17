@@ -9,7 +9,7 @@ public class Rectangle extends Point {
     }
 
     public Rectangle(Point p, int newWidth, int newHeight) {
-        super();
+        super(p.getX(), p.getY());
         width = newWidth;
         height = newHeight;
     }
