@@ -8,5 +8,9 @@ public class Rectangle extends Point {
         height = 0;
     }
 
+    public String toString() {
+        return super.toString() + "Widht = " + width + " Height = " + height;
+    }
+
 
 }
