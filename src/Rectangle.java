@@ -8,8 +8,14 @@ public class Rectangle extends Point {
         height = 0;
     }
 
+    public Rectangle(Point p, int newWidth, int newHeight) {
+        super();
+        width = newWidth;
+        height = newHeight;
+    }
+
     public String toString() {
-        return super.toString() + "Widht = " + width + " Height = " + height;
+        return super.toString() + " Widht = " + width + " Height = " + height;
     }
 
 
