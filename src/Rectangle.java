@@ -26,5 +26,24 @@ public class Rectangle extends Point {
         return width * height;
     }
 
+    /*public Point getPoint() {
+    }*/
+
+    public int getWidth() {
+        return width;
+    }
+    public int getHeight() {
+        return height;
+    }
+    public void setWidth(int newWidth) {
+        width = newWidth;
+    }
+    public void setHeight(int newHeight) {
+        height = newHeight;
+    }
+
+
+
+
 
 }
