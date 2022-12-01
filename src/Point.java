@@ -41,5 +41,9 @@ public class Point {
         y += offY;
     }
 
+    /*public static double distance(Point p1, Point p2) {
+
+    }*/
+
 
 }
